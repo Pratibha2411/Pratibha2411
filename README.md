@@ -1,1 +1,1 @@
-<img src="gitintro.gif" width=100% height=50%>
+<img src="githubintro.gif" width=100% height=50%>
