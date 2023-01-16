@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <img src ="./Pratibha Baloriya.png" />
-  
+  ![image](./Pratibha Baloriya.png)
 </div>
 
  <br/>
